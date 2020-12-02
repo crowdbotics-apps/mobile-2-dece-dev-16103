@@ -91,5 +91,13 @@ const styles = StyleSheet.create({
   Switch_5: { alignSelf: "flex-start" },
   CheckBox_6: { width: 100 },
   Icon_7: {},
-  CheckBox_8: { width: 100 }
+  CheckBox_8: { width: 100 },
+  View_1: {},
+  Text_2: {},
+  TextInput_3: {},
+  TextInput_4: {},
+  Switch_5: { alignSelf: "flex-start" },
+  CheckBox_6: { width: 100 },
+  Icon_7: {},
+  CheckBox_8: { width: 100, alignSelf: "flex-end" }
 })
